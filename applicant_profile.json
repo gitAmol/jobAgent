@@ -1,0 +1,120 @@
+{
+  "personal": {
+    "full_name": "Amol Kumar Singh",
+    "first_name": "Amol",
+    "middle_name": "Kumar",
+    "last_name": "Singh",
+    "email": "amol0405@gmail.com",
+    "phone": "+91-9845597809",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "linkedin_url": "https://www.linkedin.com/in/amol-singh-906763b",
+    "github_url": "https://github.com/gitAmol"
+  },
+  "professional_summary": "Enterprise System Design Architect with 19+ years of experience specializing in high-scale distributed systems powering 20M+ devices globally. Expert in enforcing rigorous architectural governance, systematic system decomposition, and high-stakes HLD/LLD blueprints. Proven expertise in pioneering Agentic AI engineering, delivering enterprise-grade, event-driven multi-agent orchestration pipelines.",
+  "work_experience": [
+    {
+      "title": "Project Manager",
+      "company": "LG Soft India",
+      "location": "India",
+      "start_date": "06/2013",
+      "end_date": "Current",
+      "is_current": true,
+      "duration_years": 12,
+      "highlights": [
+        "Spearheaded end-to-end distributed system design and HLD/LLD governance for global connected ecosystems powering 20M+ devices",
+        "Architected and deployed multi-user Streamable HTTP MCP Servers and Hybrid GraphRAG platforms (Vector + BM25 + Wikilink graphs) enabling self-serve root-cause triage and autonomous test-case generation across IDEs and CI/CD",
+        "Designed and deployed event-driven Multi-Agent AI systems (Anthropic Claude API, Azure Serverless, Service Bus) automating engineering quality governance across 8 teams and 900+ modules",
+        "Reduced LLM token consumption by over 90% and accelerated pipeline execution by 14x via layered deterministic rules, zero-token short-circuit gates, and multi-model routing",
+        "Re-architected legacy streaming and connectivity frameworks to modular open-source stacks, cutting device reconnection latency by 35%"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Wipro Technologies",
+      "location": "India",
+      "start_date": "08/2010",
+      "end_date": "06/2013",
+      "is_current": false,
+      "duration_years": 3,
+      "highlights": [
+        "Designed and implemented ATSC middleware components including PES and subtitle processing pipelines",
+        "Performed on-site debugging and root-cause analysis to improve platform reliability"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tata Elxsi",
+      "location": "India",
+      "start_date": "11/2006",
+      "end_date": "08/2010",
+      "is_current": false,
+      "duration_years": 4,
+      "highlights": [
+        "Developed DVB middleware and audio/video elementary stream parsers",
+        "Built internal tools for memory leak detection and corruption analysis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Tech",
+      "field": "Software Systems",
+      "institution": "BITS Pilani",
+      "program": "WILP"
+    },
+    {
+      "degree": "B.E.",
+      "field": "Electronics & Communication",
+      "institution": "VTU Belgaum"
+    }
+  ],
+  "skills": {
+    "ai_ml": [
+      "LangGraph", "LangChain", "Multi-Agent Orchestration", "Agentic RAG",
+      "LLM Reasoning", "Anthropic Claude API", "OpenAI APIs", "Vector Databases",
+      "Knowledge Graphs", "Context Filtering", "Token Cost Optimization"
+    ],
+    "programming": ["Python", "C++", "C", "JavaScript"],
+    "architecture": [
+      "Enterprise Architecture", "System Design", "HLD & LLD Governance",
+      "Distributed Systems", "Event-Driven Architecture", "Microservices",
+      "OOD", "SOLID Principles"
+    ],
+    "data_infra": ["Kafka", "Redis", "Kubernetes", "Docker"],
+    "devops": ["Jenkins", "GitHub Enterprise", "CI/CD"],
+    "cloud": ["AWS", "Azure AI Foundry"]
+  },
+  "certifications": [
+    "Software Programming Competency Certification - LG Electronics",
+    "Technical Expert Award - LG Electronics",
+    "Excellence Award - Tata Elxsi",
+    "Academic Award - VTU"
+  ],
+  "hr_defaults": {
+    "total_experience_years": 19,
+    "notice_period_days": 30,
+    "current_ctc_lpa": 18,
+    "expected_ctc_lpa": 24,
+    "work_authorization_india": true,
+    "require_visa_sponsorship": false,
+    "willing_to_relocate": true,
+    "preferred_work_mode": ["Hybrid", "Remote", "On-site"]
+  },
+  "preferences": {
+    "target_roles": ["Software Architect", "AI Architect", "Senior Technical Lead", "Principal Engineer", "Engineering Manager"],
+    "preferred_locations": ["Bengaluru", "Remote", "Hybrid"],
+    "min_match_score": 75
+  },
+  "application_defaults": {
+    "gender": "",
+    "veteran_status": "I am not a protected veteran",
+    "disability_status": "I do not have a disability",
+    "race_ethnicity": "",
+    "authorized_to_work": true,
+    "require_sponsorship": false
+  },
+  "resume_path": "./resume.pdf",
+  "cover_letter_template": "I am excited to apply for the {job_title} position at {company}. With 20 years of experience in enterprise system design and a strong focus on Agentic AI engineering, I bring expertise in building high-scale distributed systems and multi-agent orchestration pipelines. I am confident my background in {relevant_skills} aligns well with your requirements."
+}
