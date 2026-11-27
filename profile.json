@@ -1,0 +1,28 @@
+{
+  "personal": {
+    "full_name": "Your Name",
+    "email": "you@example.com",
+    "phone": "+91-9876543210",
+    "city": "Bengaluru",
+    "country": "India",
+    "linkedin_url": "https://www.linkedin.com/in/amol-singh-906763b/",
+    "github_url": "https://github.com/gitAmol"
+  },
+  "preferences": {
+    "target_roles": ["Software Architect", "AI Architect", "Senior Technical Lead"],
+    "preferred_locations": ["Bengaluru", "Remote", "Hybrid"],
+    "min_match_score": 75
+  },
+  "hr_defaults": {
+    "total_experience_years": 20,
+    "notice_period_days": 30,
+    "current_ctc_lpa": 18,
+    "expected_ctc_lpa": 24,
+    "work_authorization_india": "Yes",
+    "require_visa_sponsorship": "No"
+  },
+  "skills": [
+    "Python", "FastAPI", "LangGraph", "Langchain", "System Design", "C", "C++", "AWS", "Azure AI Foundry", "LLM Applications", "Software Architeture"
+  ],
+  "resume_path": "./resume.pdf"
+}
